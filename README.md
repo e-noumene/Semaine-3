@@ -11,7 +11,7 @@ Cette semaine nous continuons notre incursion derrière les pages du web avec de
 
 On rajoute du style ensuite, avec le CSS !
 
-1. Badges CSS sur _Codecademy_ : .....................
+1. Badges CSS sur _Codecademy_ : https://www.codecademy.com/fr/users/Atikitoi17/achievements
 2. _Update du CV_ avec l'ajout du _CSS_ (voir ci-dessus)
 
 
